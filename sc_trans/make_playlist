@@ -1,0 +1,6 @@
+#!/bin/bash
+    PATH=$PATH:/usr/local/bin
+    BASEDIR=/adres do/radio/sc_trans
+    SONGDIR=/adres do/radio/mp3
+    PLAYLIST="$BASEDIR"/mp3.lst
+    find "$SONGDIR" -type f -name '*.mp3' >"$PLAYLIST"
