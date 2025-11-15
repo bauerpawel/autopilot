@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-// BLOG.BAUERPAWEL.EU
+// bauer.net.pl
 // KONFIGURACJA AUTOPILOTA
 // Zaktualizowano do PHP 8.x z zabezpieczeniami
 
@@ -68,7 +68,7 @@ if ($pilotAction === "mp3") {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Odpalacz pilota - blog.bauerpawel.eu</title>
+    <title>Odpalacz pilota</title>
 </head>
 <body>
     <div class="tresc-nag">Kontrola autopilota</div>
