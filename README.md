@@ -40,4 +40,4 @@ Aplikacja została zabezpieczona przed:
 
 ## Autor
 
-Blog: https://blog.bauerpawel.eu
+https://bauer.net.pl
