@@ -1,0 +1,19 @@
+{
+    "name": "bauerpawel/autopilot",
+    "description": "sc_trans web PHP control panel - zaktualizowany do PHP 8.x",
+    "type": "project",
+    "require": {
+        "php": ">=8.0"
+    },
+    "authors": [
+        {
+            "name": "Pawel Bauer",
+            "homepage": "https://blog.bauerpawel.eu"
+        }
+    ],
+    "config": {
+        "platform": {
+            "php": "8.0"
+        }
+    }
+}
